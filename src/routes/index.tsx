@@ -5,7 +5,7 @@ export const Route = createFileRoute('/')({
   component: LandingPage,
 })
 
-const GUMROAD_URL = 'https://gumroad.com/l/vantora-creator-os'
+const GUMROAD_URL = 'https://buy.stripe.com/test_4gM4gyfAh4tYeHt0Pa4Ja00'
 
 const PAIN_POINTS = [
   {
